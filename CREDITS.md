@@ -14,3 +14,9 @@ Fotos de [Unsplash](https://unsplash.com), bajo la [Licencia Unsplash](https://u
 | `img/grupo-hiphop.webp` | https://unsplash.com/photos/womens-black-shirt-lot-GRDpPpKczdY |
 
 Logo y marca Nodo Ventas: diseño propio. Tipografías: Google Fonts (OFL).
+
+## Marca del negocio
+
+- Logo: publicado en el sitio oficial https://quimbamix.com/ (CDN de Hostinger) y en la foto de perfil de su Facebook.
+- Paleta: negro, dorado #F0B800 y rojo #E82828, tomados del logo.
+- El sitio y las redes públicas no mostraban fotos de clases descargables al armar la demo; se mantienen fotos de stock del rubro.

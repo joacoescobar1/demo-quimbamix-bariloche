@@ -1,6 +1,6 @@
 /* Portal de alumnas — misma base visual que la demo Quimbamix */
 body.subpage { background: var(--mist); padding-top: 72px; }
-body.subpage .site-header { background: rgba(36, 16, 43, .92); backdrop-filter: saturate(1.4) blur(14px); box-shadow: 0 1px 0 rgba(255,255,255,.08); }
+body.subpage .site-header { background: rgba(10, 10, 10, .92); backdrop-filter: saturate(1.4) blur(14px); box-shadow: 0 1px 0 rgba(255,255,255,.08); }
 
 .portal { padding: 36px 0 96px; }
 .portal-wrap { max-width: 640px; }
